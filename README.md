@@ -43,3 +43,9 @@ Create Polls: Navigate to the 'Create Poll' section and fill in the poll details
 Vote: Participate in active polls by casting your vote.
 
 View Results: See real-time voting results on the 'Results' page.
+
+![image-Photoroom](https://github.com/user-attachments/assets/b40a3c8b-80e9-4622-b0b6-5fae2e824b4f)
+
+![image-Photoroom (1)](https://github.com/user-attachments/assets/94e4c212-59cf-4c34-8fd8-83ff9dd5d7e0)
+
+
